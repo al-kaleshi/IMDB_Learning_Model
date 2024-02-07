@@ -1,1 +1,1 @@
-# IMBD_Learning_Model
+# IMDB_Learning_Model
